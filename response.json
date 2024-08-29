@@ -1,3 +1,155 @@
 {
-  "test":true
+    "status": true,
+    "data": [
+        {
+            "first_name": "Alice",
+            "email": "alice@example.com",
+            "avatar": "https://randomuser.me/api/portraits/men/1.jpg"
+        },
+        {
+            "first_name": "Alicia",
+            "email": "alicia@example.com",
+            "avatar": "https://randomuser.me/api/portraits/men/2.jpg"
+        },
+        {
+            "first_name": "Alyssa",
+            "email": "alyssa@example.com",
+            "avatar": "https://randomuser.me/api/portraits/men/3.jpg"
+        },
+        {
+            "first_name": "Bob",
+            "email": "bob@example.com",
+            "avatar": "https://randomuser.me/api/portraits/men/4.jpg"
+        },
+        {
+            "first_name": "Bobby",
+            "email": "bobby@example.com",
+            "avatar": "https://randomuser.me/api/portraits/men/5.jpg"
+        },
+        {
+            "first_name": "Barbara",
+            "email": "barbara@example.com",
+            "avatar": "https://randomuser.me/api/portraits/men/6.jpg"
+        },
+        {
+            "first_name": "Charlie",
+            "email": "charlie@example.com",
+            "avatar": "https://randomuser.me/api/portraits/men/7.jpg"
+        },
+        {
+            "first_name": "Charles",
+            "email": "charles@example.com",
+            "avatar": "https://randomuser.me/api/portraits/men/8.jpg"
+        },
+        {
+            "first_name": "Charlotte",
+            "email": "charlotte@example.com",
+            "avatar": "https://randomuser.me/api/portraits/men/9.jpg"
+        },
+        {
+            "first_name": "David",
+            "email": "david@example.com",
+            "avatar": "https://randomuser.me/api/portraits/men/10.jpg"
+        },
+        {
+            "first_name": "Daniel",
+            "email": "daniel@example.com",
+            "avatar": "https://randomuser.me/api/portraits/men/11.jpg"
+        },
+        {
+            "first_name": "Diana",
+            "email": "diana@example.com",
+            "avatar": "https://randomuser.me/api/portraits/men/12.jpg"
+        },
+        {
+            "first_name": "Edward",
+            "email": "edward@example.com",
+            "avatar": "https://randomuser.me/api/portraits/men/13.jpg"
+        },
+        {
+            "first_name": "Eddie",
+            "email": "eddie@example.com",
+            "avatar": "https://randomuser.me/api/portraits/men/14.jpg"
+        },
+        {
+            "first_name": "Eliza",
+            "email": "eliza@example.com",
+            "avatar": "https://randomuser.me/api/portraits/men/15.jpg"
+        },
+        {
+            "first_name": "Frank",
+            "email": "frank@example.com",
+            "avatar": "https://randomuser.me/api/portraits/men/16.jpg"
+        },
+        {
+            "first_name": "Francis",
+            "email": "francis@example.com",
+            "avatar": "https://randomuser.me/api/portraits/men/17.jpg"
+        },
+        {
+            "first_name": "Fiona",
+            "email": "fiona@example.com",
+            "avatar": "https://randomuser.me/api/portraits/men/18.jpg"
+        },
+        {
+            "first_name": "George",
+            "email": "george@example.com",
+            "avatar": "https://randomuser.me/api/portraits/men/19.jpg"
+        },
+        {
+            "first_name": "Georgia",
+            "email": "georgia@example.com",
+            "avatar": "https://randomuser.me/api/portraits/men/20.jpg"
+        },
+        {
+            "first_name": "Henry",
+            "email": "henry@example.com",
+            "avatar": "https://randomuser.me/api/portraits/men/21.jpg"
+        },
+        {
+            "first_name": "Hank",
+            "email": "hank@example.com",
+            "avatar": "https://randomuser.me/api/portraits/men/22.jpg"
+        },
+        {
+            "first_name": "Hannah",
+            "email": "hannah@example.com",
+            "avatar": "https://randomuser.me/api/portraits/men/23.jpg"
+        },
+        {
+            "first_name": "Isabella",
+            "email": "isabella@example.com",
+            "avatar": "https://randomuser.me/api/portraits/men/24.jpg"
+        },
+        {
+            "first_name": "Isaac",
+            "email": "isaac@example.com",
+            "avatar": "https://randomuser.me/api/portraits/men/25.jpg"
+        },
+        {
+            "first_name": "Ian",
+            "email": "ian@example.com",
+            "avatar": "https://randomuser.me/api/portraits/men/26.jpg"
+        },
+        {
+            "first_name": "Jack",
+            "email": "jack@example.com",
+            "avatar": "https://randomuser.me/api/portraits/men/27.jpg"
+        },
+        {
+            "first_name": "Jackson",
+            "email": "jackson@example.com",
+            "avatar": "https://randomuser.me/api/portraits/men/28.jpg"
+        },
+        {
+            "first_name": "Jill",
+            "email": "jill@example.com",
+            "avatar": "https://randomuser.me/api/portraits/men/29.jpg"
+        },
+        {
+            "first_name": "Jasmine",
+            "email": "jasmine@example.com",
+            "avatar": "https://randomuser.me/api/portraits/men/30.jpg"
+        }
+    ]
 }
